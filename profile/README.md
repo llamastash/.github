@@ -1,4 +1,4 @@
-# llamastash
+# [LlamaStash](https://llamastash.dev)
 
 Fast terminal-native TUI + CLI for launching local [llama.cpp](https://github.com/ggml-org/llama.cpp) models.
 
@@ -18,7 +18,7 @@ curl -fsSL https://llamastash.dev/install.sh | sh
 brew install llamastash/llamastash/llamastash
 
 # Cargo
-cargo install llamastash --locked
+cargo install llamastash
 ```
 
 Then run:
